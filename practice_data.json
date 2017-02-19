@@ -1,0 +1,6 @@
+{
+    "time": {
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+        "seasons": ["spring", "summer", "winter", "fall"]
+    }
+}
